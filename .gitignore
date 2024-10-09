@@ -462,3 +462,4 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 junit/
+data/online+retail+ii/online_retail_II.xlsx
